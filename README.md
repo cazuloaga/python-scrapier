@@ -8,4 +8,4 @@ There are countless ways on how to build webscrapers. Scrapier is the scraper to
 
 ## Usage
 
-I am using FastAPI framework to connect to my application and postgres to handle the data. This app is hosted in [heroku.scrapier](http://127.0.0.1:8000) 
+I am using FastAPI framework to connect to my application and postgres to handle the data. This app is hosted in [heroku.scrapier](http://127.0.0.1:8000) and you can find the documentation [here](http://127.0.0.1:8000/docs). You will need credentials to use, just let me know and I will hook you up. Happy scraping!
