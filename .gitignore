@@ -1,0 +1,6 @@
+__pyache__
+venv/
+.env
+app/test_pwd.py
+__pycache__
+app/scraper/utils/test.py
