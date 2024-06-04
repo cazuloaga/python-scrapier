@@ -8,4 +8,4 @@ There are countless ways on how to build webscrapers. Scrapier is the scraper to
 
 ## Usage
 
-I am using FastAPI framework to connect to my application and postgres to handle the data. This app is hosted in [heroku](https://python-scrapier.herokuapp.com/) and you can find the documentation [here](https://python-scrapier.herokuapp.com/docs). You will need credentials to use, just let me know and I will hook you up. Happy scraping!
+I am using FastAPI framework to connect to my application and postgres to handle the data. This app is hosted in [heroku](https://python-scrapier-bd2c9588abcb.herokuapp.com/) and you can find the documentation [here](https://python-scrapier-bd2c9588abcb.herokuapp.com//docs). You will need credentials to use, just let me know and I will hook you up. Happy scraping!
